@@ -1,0 +1,9 @@
+{
+  "name": "todo-flow",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "start:open": "node server.js & sleep 0.6 && open http://localhost:57891"
+  }
+}

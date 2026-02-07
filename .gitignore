@@ -1,0 +1,13 @@
+# Node
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# macOS
+.DS_Store
+
+# Local data
+.env
+data.json
